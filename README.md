@@ -1,2 +1,2 @@
 # Stochastik
-Final writing for the placement of stochastic, which follows the course of "Elementare Stochastik" at Uni Marburg.
+Final writing for the placement of stochastic, which follows the lecture of "Elementare Stochastik" at the Uni Marburg.
